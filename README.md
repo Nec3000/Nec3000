@@ -1,5 +1,7 @@
 ## Buenas! Soy Nicolás Esteban
 
+ · Estudiante de Ingeniería Informática
+ · Buscando contribuir en algo de open-source
 <!--
 **Nec3000/Nec3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
